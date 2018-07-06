@@ -6,7 +6,7 @@ description: Corn chowder # Add post description (optional)
 img: cornchowder.jpg # Add image post (optional)
 tags: [soup, corn, bacon, yogurt] # add tag
 ---
-# Corn Chowder
+# Corn Chowder with Avocado Aolie
 Here's a healthy and refreshing cold soup, perfect for a hot summer night.
 
 ## Ingredients
