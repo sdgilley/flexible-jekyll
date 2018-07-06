@@ -9,6 +9,8 @@ tags: [soup, corn, bacon, yogurt] # add tag
 # Corn Chowder with Avocado Aolie
 Here's a healthy and refreshing cold soup, perfect for a hot summer night.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BUKB7RaW9dU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Ingredients
 
 + 3 corn cobs or ?? uncooked corn
